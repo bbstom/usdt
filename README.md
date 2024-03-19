@@ -6,7 +6,7 @@
 
 - If you happen to need it, try it
 
-# Note: Do Not Use Exchange Wallets To Transfer Funds 
+# Note: Please use decentralized wallet to rent energy.
 
 [**TRX exchange address**](https://trx.wssid.com)
 [![](https://img.ksdn.org/i/2024/03/19/65f9aa26e15a0.png)](https://trx.wssid.com)
