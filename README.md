@@ -1,4 +1,6 @@
-### #### TRX(trc20) energy exchange
+#### How to obtain bandwidth and energy?
+
+#### TRX(trc20) energy exchange
 - 1.5 trx = 32000 energy
 - 3 trx = 64000 energy
 
